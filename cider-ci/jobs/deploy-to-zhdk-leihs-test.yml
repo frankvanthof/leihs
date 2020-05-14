@@ -23,3 +23,6 @@ jobs:
       tasks:
         deploy:
           include: cider-ci/task-components/zhdk-test-deploy.yml
+          scripts:
+            deploy:
+              timeout: "2 hours"
