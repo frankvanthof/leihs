@@ -7,6 +7,7 @@ include:
   - cider-ci/jobs/deploy-to-zhdk-dev-servers.yml
   - cider-ci/jobs/deploy-to-ffzh-leihs-prod.yml
   - cider-ci/jobs/deploy-to-ffzh-leihs-staging.yml
+  - cider-ci/jobs/deploy-to-zhdk-leihs-staging-norestore.yml
   - cider-ci/jobs/meta.yml
   - cider-ci/jobs/deploy-to-container.yml
   - cider-ci/jobs/integration-tests.yml
