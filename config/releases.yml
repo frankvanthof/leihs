@@ -3,23 +3,16 @@ releases:
 - version_major: 5
   version_minor: 3
   version_patch: 1
-  version_pre: RC.3
+  version_pre: null
   description: |
     - fix: legacy: new timeline and entitlement scope
-
-- version_major: 5
-  version_minor: 3
-  version_patch: 1
-  version_pre: RC.2
-  description: |
     - fix: legacy: consider entitlements only in the same pool
-
-- version_major: 5
-  version_minor: 3
-  version_patch: 1
-  version_pre: RC.1
-  description: |
     - fix: legacy: ancestors for borrowable categories
+    - deploy: fix: workaround for restore-dump
+    - deploy: Fix deploy db-restore
+    - chore: fix meta checks
+    - chore: ci: increase timeouts
+    - zhdk: enable new borrow app on staging
 
 - version_major: 5
   version_minor: 3
