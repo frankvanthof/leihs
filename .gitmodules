@@ -1,6 +1,6 @@
 [submodule "legacy"]
 	path = legacy
-	url = https://github.com/leihs/leihs_legacy
+	url = https://github.com/frankvanthof/leihs_legacy
 [submodule "database"]
 	path = database
 	url = https://github.com/leihs/leihs_database
