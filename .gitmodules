@@ -15,13 +15,13 @@
   url = https://github.com/leihs/leihs_documentation
 [submodule "admin"]
 	path = admin
-	url = https://github.com/leihs/leihs-admin.git
+	url = https://github.com/frankvanthof/leihs-admin.git
 [submodule "procure"]
 	path = procure
 	url = https://github.com/leihs/leihs-procure
 [submodule "my"]
 	path = my
-	url = https://github.com/leihs/leihs-my
+	url = https://github.com/frankvanthof/leihs-my.git
 [submodule "integration-tests"]
 	path = integration-tests
 	url = https://github.com/leihs/leihs-integration-tests.git
